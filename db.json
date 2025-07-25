@@ -1,0 +1,108 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "text": "Hello world",
+      "image": "",
+      "video": "",
+      "date": "2025-07-25T12:00:00Z",
+      "favourite": true
+    },
+    {
+      "id": "2",
+      "text": "Sunset at the beach",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "video": "",
+      "date": "2025-07-20T18:30:00Z",
+      "favourite": true
+    },
+    {
+      "id": "3",
+      "text": "Check out this dance move!",
+      "image": "",
+      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "date": "2025-07-21T14:00:00Z",
+      "favourite": false
+    },
+    {
+      "id": "4",
+      "text": "My dog being goofy 🐶",
+      "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d",
+      "video": "https://www.w3schools.com/html/movie.mp4",
+      "date": "2025-07-18T10:15:00Z",
+      "favourite": true
+    },
+    {
+      "id": "5",
+      "text": "Throwback to our trip!",
+      "image": "https://images.unsplash.com/photo-1496483353456-90997957cf99",
+      "video": "",
+      "date": "2025-07-10T09:45:00Z",
+      "favourite": false
+    },
+    {
+      "id": "6",
+      "text": "Another cool clip",
+      "image": "",
+      "video": "https://res.cloudinary.com/dzgwtssxv/video/upload/v1753447431/firstProject/zxgf5r13jxffcr33r6w2.mp4",
+      "date": "2025-07-22T20:00:00Z",
+      "favourite": false
+    },
+    {
+      "id": "7",
+      "text": "City vibes 🌃",
+      "image": "https://images.unsplash.com/photo-1494526585095-c41746248156",
+      "video": "",
+      "date": "2025-07-12T07:30:00Z",
+      "favourite": false
+    },
+    {
+      "id": "8",
+      "text": "This made my day 😂",
+      "image": "https://images.unsplash.com/photo-1558981359-54b3f1c8b6b0",
+      "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "date": "2025-07-14T11:00:00Z",
+      "favourite": true
+    },
+    {
+      "id": "9",
+      "text": "Nature is healing 🌲",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "video": "",
+      "date": "2025-07-16T15:30:00Z",
+      "favourite": false
+    },
+    {
+      "id": "10",
+      "text": "Weekend recap 🥳",
+      "image": "https://res.cloudinary.com/dzgwtssxv/image/upload/v1753447389/firstProject/ou37wdwbpyxnsgfldxun.png",
+      "video": "",
+      "date": "2025-07-24T21:45:00Z",
+      "favourite": true
+    },
+    {
+      "id": "f512",
+      "text": "test upload\n",
+      "image": "",
+      "video": "",
+      "date": "2025-07-25T12:30:53.151Z",
+      "favourite": false
+    },
+    {
+      "id": "d0de",
+      "text": "test upload",
+      "image": "https://res.cloudinary.com/dzgwtssxv/image/upload/v1753447005/firstProject/jrgzo0o2e4fms1arb3iy.png",
+      "video": "",
+      "date": "2025-07-25T12:36:51.139Z",
+      "favourite": false
+    },
+    {
+      "id": "04f2",
+      "text": "first vedio yoo",
+      "image": "https://res.cloudinary.com/dzgwtssxv/image/upload/v1753447478/firstProject/u1oxxwfdqsrrxqtubrty.png",
+      "video": "",
+      "date": "2025-07-25T12:41:13.642Z",
+      "favourite": false
+    }
+  ]
+}
