@@ -1,68 +1,84 @@
 {
   "posts": [
     {
-      "id": 1,
-      "text": "Excited to launch my first app! Appreciate all the support 🙌",
-      "image": "https://images.unsplash.com/photo-1537432376769-00a4c4c3d4f3",
-      "video": "",
-      "date": "2025-07-25T10:00:00Z",
-      "favourite": true
-    },
-    {
-      "id": 2,
-      "text": "Been learning React daily. This video helped a lot 🔥",
+      "id": "1",
+      "text": "This video hits different every time 🎧",
       "image": "",
-      "video": "https://www.youtube.com/watch?v=bMknfKXIFA8",
-      "date": "2025-07-24T12:30:00Z",
+      "video": "https://www.youtube.com/embed/kJQP7kiw5Fk",
+      "date": "2025-07-25T10:30:00Z",
       "favourite": false
     },
     {
-      "id": 3,
-      "text": "UI finally looking clean. Let me know your thoughts 👇",
-      "image": "https://images.unsplash.com/photo-1587614382346-4ec1f4b09f6c",
+      "id": "2",
+      "text": "Chilling vibes with this view 😌",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
       "video": "",
-      "date": "2025-07-24T15:45:00Z",
+      "date": "2025-07-25T11:00:00Z",
       "favourite": false
     },
     {
-      "id": 4,
-      "text": "This tutorial broke it down perfectly — 100% recommend 📚",
+      "id": "3",
+      "text": "Motivation on 100 💯",
       "image": "",
-      "video": "https://www.youtube.com/watch?v=Ke90Tje7VS0",
-      "date": "2025-07-23T08:00:00Z",
+      "video": "https://www.youtube.com/embed/ZXsQAXx_ao0",
+      "date": "2025-07-25T11:30:00Z",
       "favourite": false
     },
     {
-      "id": 5,
-      "text": "Backend work is no joke 😅 but we pushin’ through!",
-      "image": "https://images.unsplash.com/photo-1590608897129-79da63c6d1aa",
+      "id": "4",
+      "text": "Nature always finds a way 🍃",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
       "video": "",
-      "date": "2025-07-23T13:10:00Z",
+      "date": "2025-07-25T12:00:00Z",
       "favourite": false
     },
     {
-      "id": 6,
-      "text": "Deploying to Render was smoother than expected. Here’s how I did it 👇",
+      "id": "5",
+      "text": "Something to keep you going 🚀",
       "image": "",
-      "video": "https://www.youtube.com/watch?v=BN6Z9D1Fefc",
-      "date": "2025-07-22T18:00:00Z",
-      "favourite": true
+      "video": "https://www.youtube.com/embed/LXb3EKWsInQ",
+      "date": "2025-07-25T12:30:00Z",
+      "favourite": false
     },
     {
-      "id": 7,
-      "text": "This background image makes the app look crisp 📸",
-      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+      "id": "6",
+      "text": "Dream place to code and chill 💻🌴",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
       "video": "",
-      "date": "2025-07-21T16:40:00Z",
+      "date": "2025-07-25T13:00:00Z",
       "favourite": false
     },
     {
-      "id": 8,
-      "text": "Final polish on animations thanks to this fire breakdown 🎬",
+      "id": "7",
+      "text": "On repeat 🔁🔥",
       "image": "",
-      "video": "https://www.youtube.com/watch?v=1tRLveSyNz8",
-      "date": "2025-07-21T20:15:00Z",
-      "favourite": true
+      "video": "https://www.youtube.com/embed/tgbNymZ7vqY",
+      "date": "2025-07-25T13:30:00Z",
+      "favourite": false
+    },
+    {
+      "id": "8",
+      "text": "Sunset and silence 🌅",
+      "image": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab",
+      "video": "",
+      "date": "2025-07-25T14:00:00Z",
+      "favourite": false
+    },
+    {
+      "id": "9",
+      "text": "Throwback to a chill night",
+      "image": "https://images.unsplash.com/photo-1494526585095-c41746248156",
+      "video": "",
+      "date": "2025-07-25T14:30:00Z",
+      "favourite": false
+    },
+    {
+      "id": "10",
+      "text": "Morning boost ☕ and good vibes",
+      "image": "",
+      "video": "https://www.youtube.com/embed/5qap5aO4i9A",
+      "date": "2025-07-25T15:00:00Z",
+      "favourite": false
     }
   ]
 }
